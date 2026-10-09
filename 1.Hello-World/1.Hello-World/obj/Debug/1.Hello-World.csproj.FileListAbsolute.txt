@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Learn-Csharp\1.Hello-World\1.Hello-World\bin\Debug\1.Hello-World.exe.config
+C:\Users\hp\source\repos\Learn-Csharp\1.Hello-World\1.Hello-World\bin\Debug\1.Hello-World.exe
+C:\Users\hp\source\repos\Learn-Csharp\1.Hello-World\1.Hello-World\bin\Debug\1.Hello-World.pdb
+C:\Users\hp\source\repos\Learn-Csharp\1.Hello-World\1.Hello-World\obj\Debug\1.Hello-World.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Learn-Csharp\1.Hello-World\1.Hello-World\obj\Debug\1.Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Learn-Csharp\1.Hello-World\1.Hello-World\obj\Debug\1.Hello-World.exe
+C:\Users\hp\source\repos\Learn-Csharp\1.Hello-World\1.Hello-World\obj\Debug\1.Hello-World.pdb
