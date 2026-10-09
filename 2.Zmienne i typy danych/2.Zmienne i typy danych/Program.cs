@@ -58,7 +58,7 @@ namespace _2.Zmienne_i_typy_danych
             int mojWiek = 17;
             double mojWzrost = 1.72;
             bool czyLubisz = true;
-            Console.WriteLine($"Imie: {mojeImie}, Wiek: {wiek}, Wzrost: {mojWzrost}, Czy lubisz programowanie: {czyLubisz}");
+            Console.WriteLine($"Imie: {mojeImie}, Wiek: {mojWiek}, Wzrost: {mojWzrost}, Czy lubisz programowanie: {czyLubisz}");
 
             // Zad 2
             int punkty = 100;
