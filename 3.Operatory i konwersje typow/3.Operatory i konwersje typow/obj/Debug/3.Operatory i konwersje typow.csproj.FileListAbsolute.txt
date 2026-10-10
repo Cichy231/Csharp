@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Learn-Csharp\3.Operatory i konwersje typow\3.Operatory i konwersje typow\bin\Debug\3.Operatory i konwersje typow.exe.config
+C:\Users\hp\source\repos\Learn-Csharp\3.Operatory i konwersje typow\3.Operatory i konwersje typow\bin\Debug\3.Operatory i konwersje typow.exe
+C:\Users\hp\source\repos\Learn-Csharp\3.Operatory i konwersje typow\3.Operatory i konwersje typow\bin\Debug\3.Operatory i konwersje typow.pdb
+C:\Users\hp\source\repos\Learn-Csharp\3.Operatory i konwersje typow\3.Operatory i konwersje typow\obj\Debug\3.Operatory i konwersje typow.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Learn-Csharp\3.Operatory i konwersje typow\3.Operatory i konwersje typow\obj\Debug\3.Operatory i konwersje typow.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Learn-Csharp\3.Operatory i konwersje typow\3.Operatory i konwersje typow\obj\Debug\3.Operatory i konwersje typow.exe
+C:\Users\hp\source\repos\Learn-Csharp\3.Operatory i konwersje typow\3.Operatory i konwersje typow\obj\Debug\3.Operatory i konwersje typow.pdb
