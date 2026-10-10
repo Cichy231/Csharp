@@ -1,7 +1,0 @@
-C:\Users\hp\source\repos\Learn-Csharp\2.Zmienne i typy danych\2.Zmienne i typy danych\bin\Debug\2.Zmienne i typy danych.exe.config
-C:\Users\hp\source\repos\Learn-Csharp\2.Zmienne i typy danych\2.Zmienne i typy danych\bin\Debug\2.Zmienne i typy danych.exe
-C:\Users\hp\source\repos\Learn-Csharp\2.Zmienne i typy danych\2.Zmienne i typy danych\bin\Debug\2.Zmienne i typy danych.pdb
-C:\Users\hp\source\repos\Learn-Csharp\2.Zmienne i typy danych\2.Zmienne i typy danych\obj\Debug\2.Zmienne i typy danych.csproj.AssemblyReference.cache
-C:\Users\hp\source\repos\Learn-Csharp\2.Zmienne i typy danych\2.Zmienne i typy danych\obj\Debug\2.Zmienne i typy danych.csproj.CoreCompileInputs.cache
-C:\Users\hp\source\repos\Learn-Csharp\2.Zmienne i typy danych\2.Zmienne i typy danych\obj\Debug\2.Zmienne i typy danych.exe
-C:\Users\hp\source\repos\Learn-Csharp\2.Zmienne i typy danych\2.Zmienne i typy danych\obj\Debug\2.Zmienne i typy danych.pdb
