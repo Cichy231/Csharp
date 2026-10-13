@@ -105,7 +105,7 @@ namespace _9.Pętle_do_while__foreach__break_i_continue
 
             // Zad 3
             Console.Write("Napisz jakieś słowo: ");
-            string slowo = Console.ReadLine();
+            slowo = Console.ReadLine();
             int licznik = 0;
             foreach (char s in slowo)
             {
