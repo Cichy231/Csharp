@@ -10,53 +10,53 @@ namespace _9.Pętle_do_while__foreach__break_i_continue
     {
         static void Main(string[] args)
         {
-            //// Pętla do while (zawsze wykona się chociaż raz)
-            //int liczba;
-            //do // Najpierw się wykonuje
-            //{
-            //    Console.Write("Podaj liczbę dodatnią: ");
-            //    liczba = int.Parse(Console.ReadLine());
-            //}
-            //while (liczba <= 0); // Później sprawdza warunek
-            //Console.WriteLine($"Podałeś: {liczba}");
+            // Pętla do while (zawsze wykona się chociaż raz)
+            int liczba;
+            do // Najpierw się wykonuje
+            {
+                Console.Write("Podaj liczbę dodatnią: ");
+                liczba = int.Parse(Console.ReadLine());
+            }
+            while (liczba <= 0); // Później sprawdza warunek
+            Console.WriteLine($"Podałeś: {liczba}");
 
-            //Console.WriteLine();
-
-
-            //// Pętla foreach
-            //string slowo = "Kot";
-            //foreach (char znak in slowo) // Przechodzi po każdym elemencie kolekcji
-            //{                            // K
-            //    Console.WriteLine(znak); // o                                        
-            //}                            // t
-
-            //Console.WriteLine();
+            Console.WriteLine();
 
 
-            //// Instrukcja break (natychmiast kończy pętle)
-            //for (int i = 1; i <= 10; i++)
-            //{
-            //    if (i == 6)
-            //    {
-            //        break;
-            //    }
-            //    Console.WriteLine(i); // 1 2 3 4 5 (reszta się nie wypisze bo przy 6 jest break)
-            //}
+            // Pętla foreach
+            string slowo = "Kot";
+            foreach (char znak in slowo) // Przechodzi po każdym elemencie kolekcji
+            {                            // K
+                Console.WriteLine(znak); // o                                        
+            }                            // t
 
-            //Console.WriteLine();
+            Console.WriteLine();
 
 
-            //// Instrukcja continue (pomija reszte obecnej iteracji)
-            //for (int i = 1; i <= 10; i++)
-            //{
-            //    if (i % 2 == 0)
-            //    {
-            //        continue;
-            //    }
-            //    Console.WriteLine(i); // 1 3 5 7 9 (dla parzystych przerywa iteracje)
-            //}
+            // Instrukcja break (natychmiast kończy pętle)
+            for (int i = 1; i <= 10; i++)
+            {
+                if (i == 6)
+                {
+                    break;
+                }
+                Console.WriteLine(i); // 1 2 3 4 5 (reszta się nie wypisze bo przy 6 jest break)
+            }
 
-            //Console.WriteLine();
+            Console.WriteLine();
+
+
+            // Instrukcja continue (pomija reszte obecnej iteracji)
+            for (int i = 1; i <= 10; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    continue;
+                }
+                Console.WriteLine(i); // 1 3 5 7 9 (dla parzystych przerywa iteracje)
+            }
+
+            Console.WriteLine();
 
 
             // ZADANIA
