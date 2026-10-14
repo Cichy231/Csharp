@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _7.Instrukcja_switch
+namespace _07.Instrukcja_switch
 {
     internal class Program
     {
