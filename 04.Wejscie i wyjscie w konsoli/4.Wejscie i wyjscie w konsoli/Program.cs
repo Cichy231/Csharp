@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4.Wejscie_i_wyjscie_w_konsoli
+namespace _04.Wejscie_i_wyjscie_w_konsoli
 {
     internal class Program
     {
