@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _5.Projekt_Kalkulator
+namespace _05.Projekt_Kalkulator
 {
     internal class Program
     {
