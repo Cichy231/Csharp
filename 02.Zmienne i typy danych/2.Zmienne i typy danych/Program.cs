@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2.Zmienne_i_typy_danych
+namespace _02.Zmienne_i_typy_danych
 {
     internal class Program
     {
