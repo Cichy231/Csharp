@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _6.Instrukcja_if___else_if___else
+namespace _06.Instrukcja_if___else_if___else
 {
     internal class Program
     {
