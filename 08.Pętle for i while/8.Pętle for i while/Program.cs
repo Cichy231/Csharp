@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace _8.Pętle_for_i_while
+namespace _08.Pętle_for_i_while
 {
     internal class Program
     {
