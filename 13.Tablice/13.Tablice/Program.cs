@@ -131,7 +131,7 @@ namespace _13.Tablice
 
 
             // Zad 2
-            Console.WriteLine("Podaj długość tablicy: ");
+            Console.Write("Podaj długość tablicy: ");
             int dlugosc = int.Parse(Console.ReadLine());
             int[] tablicaZad2 = new int[dlugosc];
             for (int i = 0; i < tablicaZad2.Length; i++)
@@ -147,7 +147,7 @@ namespace _13.Tablice
 
             // Zad 3 
             int[] tablicaZad3 = { 3, 8, 12, 7, 4, 1 };
-            Console.WriteLine($"W tej tablicy występuje: " + PoliczParzyste(tablicaZad3) + "liczb parzystych");
+            Console.WriteLine($"W tej tablicy występuje: " + PoliczParzyste(tablicaZad3) + " liczby parzystych");
         }
 
         // Tablice a metody
