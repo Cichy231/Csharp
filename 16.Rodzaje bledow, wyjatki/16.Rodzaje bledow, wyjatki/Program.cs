@@ -33,7 +33,7 @@ namespace _16.Rodzaje_bledow__wyjatki
 
             // Najsłynniejszy błąd
             string imie = null;
-            Console.WriteLine(imie.Length); // Wyjątek 'NullReferenceException'
+            // Console.WriteLine(imie.Length); // Wyjątek 'NullReferenceException'
         }
     }
 }
